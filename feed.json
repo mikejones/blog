@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "michaeljon.es",
+    "description": "",
+    "home_page_url": "https://mikejones.github.io/blog",
+    "feed_url": "https://mikejones.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Michael Jones"
+    },
+    "items": [
+        {
+            "id": "https://mikejones.github.io/blog/this-is-my-first-post.html",
+            "url": "https://mikejones.github.io/blog/this-is-my-first-post.html",
+            "title": "This is my first post",
+            "summary": "This is quite cool init? ",
+            "content_html": "<p>This is quite cool init? </p>",
+            "author": {
+                "name": "Michael Jones"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-04-26T14:44:32+01:00",
+            "date_modified": "2021-04-26T14:44:32+01:00"
+        }
+    ]
+}

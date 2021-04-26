@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>michaeljon.es</title>
+    <link href="https://mikejones.github.io/blog/feed.xml" rel="self" />
+    <link href="https://mikejones.github.io/blog" />
+    <updated>2021-04-26T14:44:32+01:00</updated>
+    <author>
+        <name>Michael Jones</name>
+    </author>
+    <id>https://mikejones.github.io/blog</id>
+
+    <entry>
+        <title>This is my first post</title>
+        <author>
+            <name>Michael Jones</name>
+        </author>
+        <link href="https://mikejones.github.io/blog/this-is-my-first-post.html"/>
+        <id>https://mikejones.github.io/blog/this-is-my-first-post.html</id>
+
+        <updated>2021-04-26T14:44:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is quite cool init? 
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is quite cool init? </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
